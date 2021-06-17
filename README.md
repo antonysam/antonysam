@@ -14,7 +14,7 @@ I'm Sam Dany a Automation Tester (Selenium). Interested to spend most of time au
 <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png?1450733280" width="35" alt="Jenkins"/></a> 
 
 #### Resume
-- 📎: [My Resume/CV](https://github.com/antonysam/antonysam/blob/master/Sam_Dany_R_Resume.pdf)
+- 📎: [My Resume/CV](https://github.com/antonysam/antonysam/blob/master/Resume/Sam_Dany_R_Resume.pdf)
 
 
 
