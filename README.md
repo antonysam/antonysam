@@ -1,6 +1,6 @@
 ### Hi I'm Sam Dany<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Sam Dany a Automation Tester (Selenium). Interested to spend most of time automating projects using QA tools.
+A Automation Tester (Selenium). Interested to spend most of time automating projects using QA tools.
 
 
 - 🔭 I’m currently working on chromeoptions
